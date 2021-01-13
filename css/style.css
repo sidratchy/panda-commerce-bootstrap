@@ -1,0 +1,24 @@
+
+
+.bg-color{
+    background-color: rgb(252, 234, 232);
+}
+.btn-color{
+    background-color: rgb(255, 67, 142);
+}
+.txt-color{
+    color: rgb(255, 67, 142);
+}
+.border-none{
+    border: 0;
+}
+.card:hover{
+    background-color: rgba(252, 234, 232, .7);
+}
+.nav-bg{
+    background-color:rgba(202, 200, 200, 0.8);
+}
+body { padding-top: 40px; }
+@media screen and (max-width: 768px) {
+    body { padding-top: 20px; }
+}
